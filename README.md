@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeCosminBarbulescu
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript, HTML, CSS, and bit of SQL.
+- 🌱 I’m currently learning JavaScript, HTML, CSS, and a bit of SQL.
 - 💞️ I’m looking to collaborate on JavaScript projects in order to expand my knowledge and skills.
 - 📫 How to reach me: email: gcosmin@hotmail.com
 
